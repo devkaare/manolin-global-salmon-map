@@ -1,7 +1,5 @@
 github.com/a-h/templ v0.3.833 h1:L/KOk/0VvVTBegtE0fp2RJQiBm7/52Zxv5fqlEHiQUU=
 github.com/a-h/templ v0.3.833/go.mod h1:cAu4AiZhtJfBjMY0HASlyzvkrtjnHWPeEsyGK2YYmfk=
-github.com/devkaare/todo v0.0.0-20241219001720-ec5b3acf81ca h1:3REXMT7D+dvii0yvbKtNMxJwQAwiiHbvrWrRAqSN/yI=
-github.com/devkaare/todo v0.0.0-20241219001720-ec5b3acf81ca/go.mod h1:aYWWmGGeVADtj/8eRx12LsuxXlzHxFlwt7uSK+VwvBc=
 github.com/go-chi/chi/v5 v5.2.1 h1:KOIHODQj58PmL80G2Eak4WdvUzjSJSm0vG72crDCqb8=
 github.com/go-chi/chi/v5 v5.2.1/go.mod h1:L2yAIGWB3H+phAw1NxKwWM+7eUH/lU8pOMm5hHcoops=
 github.com/go-chi/cors v1.2.1 h1:xEC8UT3Rlp2QuWNEr4Fs/c2EAGVKBwy/1vHx3bppil4=

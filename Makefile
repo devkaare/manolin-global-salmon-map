@@ -1,4 +1,4 @@
-MAIN_FILE_PATH = cmd/api/main.go
+MAIN_FILE_PATH = main.go
 
 all: build test
 
@@ -6,12 +6,15 @@ run:
 	@go run $(MAIN_FILE_PATH)
 
 build:
+	@echo "Building..."
+	@templ generate
 	@go build $(MAIN_FILE_PATH)
-
 test:
+	@echo "Testing..."
 	@go test ./... -v
 
 clean:
+	@echo "Cleaning..."
 	@rm -rf main
 	@go mod tidy
 
