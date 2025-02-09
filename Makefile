@@ -1,4 +1,4 @@
-MAIN_FILE_PATH = main.go
+MAIN_FILE_PATH = cmd/api/main.go
 
 all: build test
 
