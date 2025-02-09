@@ -1,6 +1,6 @@
 MAIN_FILE_PATH = main.go
 
-# all: build test
+all: build test
 
 run:
 	@go run $(MAIN_FILE_PATH)
@@ -15,6 +15,4 @@ clean:
 	@rm -rf main
 	@go mod tidy
 
-# .PHONY: all run build test clean
-
-.PHONY: run build test clean
+.PHONY: all run build test clean
