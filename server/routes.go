@@ -3,7 +3,9 @@ package server
 import (
 	"net/http"
 
+	"github.com/a-h/templ"
 	"github.com/devkaare/manolin-global-salmon-map/handler"
+	"github.com/devkaare/manolin-global-salmon-map/views"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 	"github.com/go-chi/cors"
@@ -21,7 +23,8 @@ func (s *Server) RegisterRoutes() http.Handler {
 		MaxAge:           300,
 	}))
 
-	r.Route("/", s.RegisterNewRoutes)
+	r.Get("/", templ.Handler(views.Hello()).ServeHTTP)
+	r.Route("/api", s.RegisterNewRoutes)
 
 	return r
 }
