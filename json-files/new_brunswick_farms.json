@@ -1,0 +1,842 @@
+[
+  {
+    "municipality": "Long Island Bay",
+    "localityNumber": "MF-0002",
+    "organizations": "Lambert Salmon Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.72,
+    "lon": -66.724,
+    "regions": "CAN",
+    "name": "Long Island Bay"
+  },
+  {
+    "municipality": "Hardwood Cove",
+    "localityNumber": "MF-0003",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 44.63,
+    "lon": -66.832,
+    "regions": "CAN",
+    "name": "Hardwood Cove"
+  },
+  {
+    "municipality": "Dark Harbour",
+    "localityNumber": "MF-0004",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.748,
+    "lon": -66.84,
+    "regions": "CAN",
+    "name": "Dark Harbour"
+  },
+  {
+    "municipality": "Beaver Harbour",
+    "localityNumber": "MF-0010",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.073,
+    "lon": -66.733,
+    "regions": "CAN",
+    "name": "Beaver Harbour"
+  },
+  {
+    "municipality": "Beaver Harbour",
+    "localityNumber": "MF-0012",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.065,
+    "lon": -66.735,
+    "regions": "CAN",
+    "name": "Beaver Harbour"
+  },
+  {
+    "municipality": "Letang Estuary",
+    "localityNumber": "MF-0014",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.069,
+    "lon": -66.808,
+    "regions": "CAN",
+    "name": "Letang Estuary"
+  },
+  {
+    "municipality": "Letang Estuary",
+    "localityNumber": "MF-0016",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.063,
+    "lon": -66.814,
+    "regions": "CAN",
+    "name": "Letang Estuary"
+  },
+  {
+    "municipality": "Letang Estuary",
+    "localityNumber": "MF-0017",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.063,
+    "lon": -66.808,
+    "regions": "CAN",
+    "name": "Letang Estuary"
+  },
+  {
+    "municipality": "Limekiln Bay",
+    "localityNumber": "MF-0018",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.06,
+    "lon": -66.823,
+    "regions": "CAN",
+    "name": "Limekiln Bay"
+  },
+  {
+    "municipality": "Letete Passage",
+    "localityNumber": "MF-0020",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.062,
+    "lon": -66.833,
+    "regions": "CAN",
+    "name": "Letete Passage"
+  },
+  {
+    "municipality": "Letang Harbour",
+    "localityNumber": "MF-0022",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.053,
+    "lon": -66.829,
+    "regions": "CAN",
+    "name": "Letang Harbour"
+  },
+  {
+    "municipality": "Letang Harbour",
+    "localityNumber": "MF-0023",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.049,
+    "lon": -66.831,
+    "regions": "CAN",
+    "name": "Letang Harbour"
+  },
+  {
+    "municipality": "Letang Harbour",
+    "localityNumber": "MF-0024",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.056,
+    "lon": -66.818,
+    "regions": "CAN",
+    "name": "Letang Harbour"
+  },
+  {
+    "municipality": "Bliss Harbour",
+    "localityNumber": "MF-0026",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.042,
+    "lon": -66.826,
+    "regions": "CAN",
+    "name": "Bliss Harbour"
+  },
+  {
+    "municipality": "Bliss Harbour",
+    "localityNumber": "MF-0027",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.04,
+    "lon": -66.838,
+    "regions": "CAN",
+    "name": "Bliss Harbour"
+  },
+  {
+    "municipality": "Bliss Harbour",
+    "localityNumber": "MF-0029",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.035,
+    "lon": -66.833,
+    "regions": "CAN",
+    "name": "Bliss Harbour"
+  },
+  {
+    "municipality": "Bliss Harbour",
+    "localityNumber": "MF-0032",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.035,
+    "lon": -66.844,
+    "regions": "CAN",
+    "name": "Bliss Harbour"
+  },
+  {
+    "municipality": "The Narrows",
+    "localityNumber": "MF-0033",
+    "organizations": "T & J AQUACULTURE LTD.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.059,
+    "lon": -66.851,
+    "regions": "CAN",
+    "name": "The Narrows"
+  },
+  {
+    "municipality": "The Narrows",
+    "localityNumber": "MF-0034",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.057,
+    "lon": -66.857,
+    "regions": "CAN",
+    "name": "The Narrows"
+  },
+  {
+    "municipality": "Back Bay",
+    "localityNumber": "MF-0035",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.052,
+    "lon": -66.856,
+    "regions": "CAN",
+    "name": "Back Bay"
+  },
+  {
+    "municipality": "Back Bay",
+    "localityNumber": "MF-0036",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.048,
+    "lon": -66.86,
+    "regions": "CAN",
+    "name": "Back Bay"
+  },
+  {
+    "municipality": "Back Bay",
+    "localityNumber": "MF-0037",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.044,
+    "lon": -66.874,
+    "regions": "CAN",
+    "name": "Back Bay"
+  },
+  {
+    "municipality": "Doyls Passage",
+    "localityNumber": "MF-0042",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.028,
+    "lon": -66.943,
+    "regions": "CAN",
+    "name": "Doyls Passage"
+  },
+  {
+    "municipality": "adjacent to Simpsons Island",
+    "localityNumber": "MF-0044",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 45,
+    "lon": -66.912,
+    "regions": "CAN",
+    "name": "adjacent to Simpsons Island"
+  },
+  {
+    "municipality": "Fish Harbour",
+    "localityNumber": "MF-0045",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 45.005,
+    "lon": -66.928,
+    "regions": "CAN",
+    "name": "Fish Harbour"
+  },
+  {
+    "municipality": "Lords Cove",
+    "localityNumber": "MF-0046",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 45,
+    "lon": -66.945,
+    "regions": "CAN",
+    "name": "Lords Cove"
+  },
+  {
+    "municipality": "Indian River",
+    "localityNumber": "MF-0049",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.935,
+    "lon": -66.97,
+    "regions": "CAN",
+    "name": "Indian River"
+  },
+  {
+    "municipality": "Indian River",
+    "localityNumber": "MF-0051",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.935,
+    "lon": -66.982,
+    "regions": "CAN",
+    "name": "Indian River"
+  },
+  {
+    "municipality": "Indian River",
+    "localityNumber": "MF-0052",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.924,
+    "lon": -66.937,
+    "regions": "CAN",
+    "name": "Indian River"
+  },
+  {
+    "municipality": "Otter Cove",
+    "localityNumber": "MF-0053",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.921,
+    "lon": -66.932,
+    "regions": "CAN",
+    "name": "Otter Cove"
+  },
+  {
+    "municipality": "Otter Cove",
+    "localityNumber": "MF-0054",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.917,
+    "lon": -66.936,
+    "regions": "CAN",
+    "name": "Otter Cove"
+  },
+  {
+    "municipality": "Friars Bay",
+    "localityNumber": "MF-0055",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 44.886,
+    "lon": -66.96,
+    "regions": "CAN",
+    "name": "Friars Bay"
+  },
+  {
+    "municipality": "Snug Cove",
+    "localityNumber": "MF-0056",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.874,
+    "lon": -66.977,
+    "regions": "CAN",
+    "name": "Snug Cove"
+  },
+  {
+    "municipality": "Cummings Cove",
+    "localityNumber": "MF-0057",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.943,
+    "lon": -66.996,
+    "regions": "CAN",
+    "name": "Cummings Cove"
+  },
+  {
+    "municipality": "Clam Cove",
+    "localityNumber": "MF-0059",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 44.966,
+    "lon": -67.013,
+    "regions": "CAN",
+    "name": "Clam Cove"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0061",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.129,
+    "lon": -67.027,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0084",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.126,
+    "lon": -67.013,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "The Narrows",
+    "localityNumber": "MF-0159",
+    "organizations": "LEAVITT'S HEAD SALMON LTD.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.064,
+    "lon": -66.848,
+    "regions": "CAN",
+    "name": "The Narrows"
+  },
+  {
+    "municipality": "Friars Bay",
+    "localityNumber": "MF-0168",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 44.878,
+    "lon": -66.968,
+    "regions": "CAN",
+    "name": "Friars Bay"
+  },
+  {
+    "municipality": "Cheney Passage",
+    "localityNumber": "MF-0172",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.669,
+    "lon": -66.722,
+    "regions": "CAN",
+    "name": "Cheney Passage"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0179",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.006,
+    "lon": -66.994,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Head Harbour",
+    "localityNumber": "MF-0186",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.954,
+    "lon": -66.902,
+    "regions": "CAN",
+    "name": "Head Harbour"
+  },
+  {
+    "municipality": "Head Harbour",
+    "localityNumber": "MF-0206",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.945,
+    "lon": -66.905,
+    "regions": "CAN",
+    "name": "Head Harbour"
+  },
+  {
+    "municipality": "Long Island Bay",
+    "localityNumber": "MF-0213",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.735,
+    "lon": -66.731,
+    "regions": "CAN",
+    "name": "Long Island Bay"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0214",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.114,
+    "lon": -67.033,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Fish Harbour",
+    "localityNumber": "MF-0215",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 45.009,
+    "lon": -66.928,
+    "regions": "CAN",
+    "name": "Fish Harbour"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0222",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.011,
+    "lon": -66.982,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0228",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 45.017,
+    "lon": -66.976,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0251",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.029,
+    "lon": -66.976,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0256",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.039,
+    "lon": -66.965,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Seal Cove",
+    "localityNumber": "MF-0270",
+    "organizations": "Benson Aquaculture Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.619,
+    "lon": -66.841,
+    "regions": "CAN",
+    "name": "Seal Cove"
+  },
+  {
+    "municipality": "Back Bay",
+    "localityNumber": "MF-0276",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 45.03,
+    "lon": -66.867,
+    "regions": "CAN",
+    "name": "Back Bay"
+  },
+  {
+    "municipality": "adjacent Nantucket Island",
+    "localityNumber": "MF-0282",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.689,
+    "lon": -66.714,
+    "regions": "CAN",
+    "name": "adjacent Nantucket Island"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0290",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.093,
+    "lon": -67.036,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Seal Cove",
+    "localityNumber": "MF-0292",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.64,
+    "lon": -66.842,
+    "regions": "CAN",
+    "name": "Seal Cove"
+  },
+  {
+    "municipality": "adjacent to Great Duck Island",
+    "localityNumber": "MF-0298",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 44.683,
+    "lon": -66.699,
+    "regions": "CAN",
+    "name": "adjacent to Great Duck Island"
+  },
+  {
+    "municipality": "adjacent to Andys Ledge",
+    "localityNumber": "MF-0300",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.676,
+    "lon": -66.712,
+    "regions": "CAN",
+    "name": "adjacent to Andys Ledge"
+  },
+  {
+    "municipality": "Long Pond Bay",
+    "localityNumber": "MF-0303",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.646,
+    "lon": -66.798,
+    "regions": "CAN",
+    "name": "Long Pond Bay"
+  },
+  {
+    "municipality": "adjacent to White Head Island",
+    "localityNumber": "MF-0316",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.623,
+    "lon": -66.738,
+    "regions": "CAN",
+    "name": "adjacent to White Head Island"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0320",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.994,
+    "lon": -67.007,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0342",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.139,
+    "lon": -67.028,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Long Island Bay",
+    "localityNumber": "MF-0349",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.718,
+    "lon": -66.732,
+    "regions": "CAN",
+    "name": "Long Island Bay"
+  },
+  {
+    "municipality": "Long Island Bay",
+    "localityNumber": "MF-0350",
+    "organizations": "Neil Morse",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.723,
+    "lon": -66.718,
+    "regions": "CAN",
+    "name": "Long Island Bay"
+  },
+  {
+    "municipality": "Long Island Bay",
+    "localityNumber": "MF-0368",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.73,
+    "lon": -66.738,
+    "regions": "CAN",
+    "name": "Long Island Bay"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0370",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.074,
+    "lon": -67,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0377",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.031,
+    "lon": -67.007,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Foleys Cove",
+    "localityNumber": "MF-0378",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.065,
+    "lon": -66.691,
+    "regions": "CAN",
+    "name": "Foleys Cove"
+  },
+  {
+    "municipality": "adjacent to White Head Island",
+    "localityNumber": "MF-0381",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.616,
+    "lon": -66.728,
+    "regions": "CAN",
+    "name": "adjacent to White Head Island"
+  },
+  {
+    "municipality": "Seelys Cove",
+    "localityNumber": "MF-0400",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.081,
+    "lon": -66.644,
+    "regions": "CAN",
+    "name": "Seelys Cove"
+  },
+  {
+    "municipality": "adjacent to Wood Island",
+    "localityNumber": "MF-0403",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.626,
+    "lon": -66.801,
+    "regions": "CAN",
+    "name": "adjacent to Wood Island"
+  },
+  {
+    "municipality": "Welch Cove",
+    "localityNumber": "MF-0404",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.083,
+    "lon": -66.488,
+    "regions": "CAN",
+    "name": "Welch Cove"
+  },
+  {
+    "municipality": "adjacent to Outer Wood Island",
+    "localityNumber": "MF-0408",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 44.613,
+    "lon": -66.804,
+    "regions": "CAN",
+    "name": "adjacent to Outer Wood Island"
+  },
+  {
+    "municipality": "Quoddy River",
+    "localityNumber": "MF-0411",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.927,
+    "lon": -66.965,
+    "regions": "CAN",
+    "name": "Quoddy River"
+  },
+  {
+    "municipality": "Maces Bay",
+    "localityNumber": "MF-0412",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.103,
+    "lon": -66.578,
+    "regions": "CAN",
+    "name": "Maces Bay"
+  },
+  {
+    "municipality": "Deep Cove",
+    "localityNumber": "MF-0413",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.608,
+    "lon": -66.873,
+    "regions": "CAN",
+    "name": "Deep Cove"
+  },
+  {
+    "municipality": "Wood Island Harbour",
+    "localityNumber": "MF-0491",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain), Lumpfish",
+    "lat": 44.611,
+    "lon": -66.827,
+    "regions": "CAN",
+    "name": "Wood Island Harbour"
+  },
+  {
+    "municipality": "Round Meadow Cove",
+    "localityNumber": "MF-0495",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.103,
+    "lon": -66.379,
+    "regions": "CAN",
+    "name": "Round Meadow Cove"
+  },
+  {
+    "municipality": "Orange Cove",
+    "localityNumber": "MF-0496",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.066,
+    "lon": -66.668,
+    "regions": "CAN",
+    "name": "Orange Cove"
+  },
+  {
+    "municipality": "Duck Cove",
+    "localityNumber": "MF-0501",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.07,
+    "lon": -66.435,
+    "regions": "CAN",
+    "name": "Duck Cove"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0502",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.113,
+    "lon": -66.99,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Cow Passage",
+    "localityNumber": "MF-0503",
+    "organizations": "Benson Aquaculture Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 44.657,
+    "lon": -66.709,
+    "regions": "CAN",
+    "name": "Cow Passage"
+  },
+  {
+    "municipality": "Passamaquoddy Bay",
+    "localityNumber": "MF-0504",
+    "organizations": "MOWI Canada East Inc.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.132,
+    "lon": -66.96,
+    "regions": "CAN",
+    "name": "Passamaquoddy Bay"
+  },
+  {
+    "municipality": "Maces Bay",
+    "localityNumber": "MF-0507",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.092,
+    "lon": -66.614,
+    "regions": "CAN",
+    "name": "Maces Bay"
+  },
+  {
+    "municipality": "Beaver Harbour",
+    "localityNumber": "MF-0508",
+    "organizations": "Kelly Cove Salmon Ltd.",
+    "species": "Atlantic Salmon (Saint John River strain)",
+    "lat": 45.054,
+    "lon": -66.712,
+    "regions": "CAN",
+    "name": "Beaver Harbour"
+  }
+]

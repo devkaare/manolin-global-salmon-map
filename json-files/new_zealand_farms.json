@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Akaroa Harbour #1",
+    "organizations": "Akoroa Salmon",
+    "lat": -43.868231,
+    "lon": 172.921992,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Akaroa Harbour #2",
+    "organizations": "Akoroa Salmon",
+    "lat": -43.862259,
+    "lon": 172.916735,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Ngamahau",
+    "organizations": "New Zealand King Salmon",
+    "lat": -41.223726,
+    "lon": 174.269193,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Clay Point",
+    "organizations": "New Zealand King Salmon",
+    "lat": -41.2352,
+    "lon": 174.244913,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Te Pangu Bay",
+    "organizations": "New Zealand King Salmon",
+    "lat": -41.247301,
+    "lon": 174.238186,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Otanerau Bay",
+    "organizations": "New Zealand King Salmon",
+    "lat": -41.169127,
+    "lon": 174.318975,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Ruakaka Bay",
+    "organizations": "New Zealand King Salmon",
+    "lat": -41.211623,
+    "lon": 174.14023,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Forsyth Bay",
+    "organizations": "New Zealand King Salmon",
+    "lat": -40.982033,
+    "lon": 174.018101,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Kopaua",
+    "organizations": "New Zealand King Salmon",
+    "lat": -40.995497,
+    "lon": 173.963054,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Waitata Reach",
+    "organizations": "New Zealand King Salmon",
+    "lat": -40.969932,
+    "lon": 173.954761,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Wahinau Bay",
+    "organizations": "New Zealand King Salmon",
+    "lat": -40.948188,
+    "lon": 173.953185,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Big Glory Bay #1-#4",
+    "organizations": "Sanford",
+    "lat": -46.989657,
+    "lon": 168.110434,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Big Glory Bay #2",
+    "organizations": "Sanford",
+    "lat": -46.986817,
+    "lon": 168.125583,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  },
+  {
+    "name": "Big Glory Bay #3",
+    "organizations": "Sanford",
+    "lat": -46.976716,
+    "lon": 168.133329,
+    "Farm Type": "Seafarm",
+    "species": "Chinook (King Salmon)",
+    "regions": "NZL"
+  }
+]

@@ -1,0 +1,1082 @@
+[
+    {
+        "lon": -55.46377688221579,
+        "lat": 47.63487562780891,
+        "municipality": "St. George",
+        "localityNumber": "674",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Cinq Island Cove, Belle Bay"
+    },
+    {
+        "lon": -55.33768306072978,
+        "lat": 47.65716919139455,
+        "municipality": "Hermitage",
+        "localityNumber": "781",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Belle Harbour Mouth West"
+    },
+    {
+        "lon": -55.77345760168674,
+        "lat": 47.507510131710525,
+        "municipality": "St. George",
+        "localityNumber": "775",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Broad Cove, Northeast Arm"
+    },
+    {
+        "lon": -55.892090016422834,
+        "lat": 47.633100642464505,
+        "municipality": "Hermitage",
+        "localityNumber": "620",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "The Matchems, Little Passage, Herm. Bay"
+    },
+    {
+        "lon": -55.9067999292003,
+        "lat": 47.63731003577576,
+        "municipality": "Hermitage",
+        "localityNumber": "631",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Seal Cove, Gaultois Passage"
+    },
+    {
+        "lon": -55.35300652284629,
+        "lat": 47.55710892023621,
+        "municipality": "Hermitage",
+        "localityNumber": "796",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "South of Farmer's Cove Head, Chapel Is."
+    },
+    {
+        "lon": -55.45154003141551,
+        "lat": 47.64312020776842,
+        "municipality": "St. George",
+        "localityNumber": "765",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Tilt Point, Cinq Island Bay, Fortune Bay"
+    },
+    {
+        "lon": -55.87844640388763,
+        "lat": 47.62527702208651,
+        "municipality": "Hermitage",
+        "localityNumber": "662",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Robin Hood Cove"
+    },
+    {
+        "lon": -55.38312164443112,
+        "lat": 47.536612251658624,
+        "municipality": "Hermitage",
+        "localityNumber": "794",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "East of Grandy Rock, Chapel Island, Fbay"
+    },
+    {
+        "lon": -55.47108018547568,
+        "lat": 47.62658839609878,
+        "municipality": "St. George",
+        "localityNumber": "672",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Spyglass Cove (Cinq Islands Bay)"
+    },
+    {
+        "lon": -55.40137271605857,
+        "lat": 47.510965718530905,
+        "municipality": "Hermitage",
+        "localityNumber": "782",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Back Cove, Fortune Bay"
+    },
+    {
+        "lon": -55.43817579493366,
+        "lat": 47.70125470713273,
+        "municipality": "St. George",
+        "localityNumber": "673",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Spoon Cove, Belle Bay"
+    },
+    {
+        "lon": -55.926667070023875,
+        "lat": 47.65333336578981,
+        "municipality": "St. George",
+        "localityNumber": "193",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Seal Nest Cove, Little Passage"
+    },
+    {
+        "lon": -55.3363975715582,
+        "lat": 47.63319489581099,
+        "municipality": "Hermitage",
+        "localityNumber": "793",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "East of Belle Island, Belle Bay, Fortune"
+    },
+    {
+        "lon": -55.4040631703345,
+        "lat": 47.494607300418004,
+        "municipality": "Hermitage",
+        "localityNumber": "795",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Bottle Hill, Fortune Bay"
+    },
+    {
+        "lon": -55.931355377491705,
+        "lat": 47.666941491515196,
+        "municipality": "St. George",
+        "localityNumber": "379",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Blackfish Cove, Little Passage"
+    },
+    {
+        "lon": -55.73499982605829,
+        "lat": 47.64450006875841,
+        "municipality": "Hermitage",
+        "localityNumber": "730",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Olive Cove, Hermitage Bay"
+    },
+    {
+        "lon": -55.34588737421964,
+        "lat": 47.54120630071191,
+        "municipality": "Hermitage",
+        "localityNumber": "797",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "South East of Chapel Island, Fortune Bay"
+    },
+    {
+        "lon": -55.396080740719825,
+        "lat": 47.71536432258985,
+        "municipality": "St. George",
+        "localityNumber": "786",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Hickman's Point, East Bay, Fortune Bay"
+    },
+    {
+        "lon": -55.81426806504428,
+        "lat": 47.870609275523904,
+        "municipality": "St. George",
+        "localityNumber": "219",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Lou Cove, Cluet Head, Bay d'Espoir"
+    },
+    {
+        "lon": -55.31395136755391,
+        "lat": 47.653328827401694,
+        "municipality": "Hermitage",
+        "localityNumber": "792",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Doctor's Hr., Belle Bay, Fortune Bay"
+    },
+    {
+        "lon": -55.93880420782762,
+        "lat": 47.65995626909272,
+        "municipality": "St. George",
+        "localityNumber": "187",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Strickland Cove, Little Passage"
+    },
+    {
+        "lon": -55.62581948474168,
+        "lat": 47.536173408370416,
+        "municipality": "St. George",
+        "localityNumber": "777",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Dog Cove, Great Bay de L'Eau"
+    },
+    {
+        "lon": -55.81316134061424,
+        "lat": 47.547793147078224,
+        "municipality": "Hermitage",
+        "localityNumber": "860",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Fish Cove"
+    },
+    {
+        "lon": -55.35407731466496,
+        "lat": 47.57343191670653,
+        "municipality": "Hermitage",
+        "localityNumber": "783",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Farmer's Cove, Chapel Island"
+    },
+    {
+        "lon": -55.14932161700975,
+        "lat": 47.643814954387736,
+        "municipality": "St. George",
+        "localityNumber": "878",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "The Hobby (Mal Bay, Fortune Bay)"
+    },
+    {
+        "lon": -55.916080424400526,
+        "lat": 47.64135040507581,
+        "municipality": "Hermitage",
+        "localityNumber": "660",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Grip Cove, Little Passage"
+    },
+    {
+        "lon": -55.331360717760155,
+        "lat": 47.67246061899443,
+        "municipality": "St. George",
+        "localityNumber": "874",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Old Woman's Cove, Belle Bay, Fortune Bay"
+    },
+    {
+        "lon": -55.851522098192,
+        "lat": 47.615861044518994,
+        "municipality": "Hermitage",
+        "localityNumber": "859",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Herring Cove, Hermitage Bay"
+    },
+    {
+        "lon": -56.17776954813268,
+        "lat": 47.67770329788993,
+        "municipality": "Hermitage",
+        "localityNumber": "639",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Manuel Arm, Bay d'Espoir"
+    },
+    {
+        "lon": -56.22181933640476,
+        "lat": 47.66003976477237,
+        "municipality": "Hermitage",
+        "localityNumber": "666",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Herring Cove"
+    },
+    {
+        "lon": -55.9290359274281,
+        "lat": 47.6738849498482,
+        "municipality": "St. George",
+        "localityNumber": "881",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Deer Cove"
+    },
+    {
+        "lon": -55.80781097478202,
+        "lat": 47.59340645692932,
+        "municipality": "Hermitage",
+        "localityNumber": "316",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Long Pond, Hermitage"
+    },
+    {
+        "lon": -55.392352732290725,
+        "lat": 47.555447271064416,
+        "municipality": "Hermitage",
+        "localityNumber": "661",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Chapel Island, Belloram"
+    },
+    {
+        "lon": -55.84927810661227,
+        "lat": 47.55224767958733,
+        "municipality": "Hermitage",
+        "localityNumber": "861",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Rattling Brook, Connaigre Bay"
+    },
+    {
+        "lon": -55.82922231957902,
+        "lat": 47.86747164236562,
+        "municipality": "St. George",
+        "localityNumber": "220",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Man-Of-War Cove"
+    },
+    {
+        "lon": -55.79533607043147,
+        "lat": 47.63035214739147,
+        "municipality": "Hermitage",
+        "localityNumber": "857",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Bobby Herring Cove"
+    },
+    {
+        "lon": -56.16213616724315,
+        "lat": 47.72735549262357,
+        "municipality": "Hermitage",
+        "localityNumber": "637",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Sugarloaf Island, Great Cuiller Bay"
+    },
+    {
+        "lon": -55.23386206839824,
+        "lat": 47.63814692243919,
+        "municipality": "St. George",
+        "localityNumber": "875",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Little Burdock Cove"
+    },
+    {
+        "lon": -56.219657091515884,
+        "lat": 47.649539861852745,
+        "municipality": "Hermitage",
+        "localityNumber": "668",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "North of Killbuck Cove"
+    },
+    {
+        "lon": -55.36108866545752,
+        "lat": 47.709067915380885,
+        "municipality": "St. George",
+        "localityNumber": "828",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "South East Bight"
+    },
+    {
+        "lon": -56.177330271958745,
+        "lat": 47.6351077722079,
+        "municipality": "Hermitage",
+        "localityNumber": "791",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Saddle Island"
+    },
+    {
+        "lon": -55.82224600308255,
+        "lat": 47.622094714572015,
+        "municipality": "Hermitage",
+        "localityNumber": "858",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Green Point, Hermitage Bay"
+    },
+    {
+        "lon": -55.616113188096776,
+        "lat": 47.522505204209615,
+        "municipality": "St. George",
+        "localityNumber": "851",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Red Cove, Great Bay de l'Eau Fortune Bay"
+    },
+    {
+        "lon": -55.23748946551551,
+        "lat": 47.65305833875764,
+        "municipality": "St. George",
+        "localityNumber": "872",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Deep Water Point"
+    },
+    {
+        "lon": -55.431495922480956,
+        "lat": 47.69150673095229,
+        "municipality": "St. George",
+        "localityNumber": "832",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Steamer Head"
+    },
+    {
+        "lon": -55.70413191626537,
+        "lat": 47.49798046778258,
+        "municipality": "St. George",
+        "localityNumber": "879",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Murphy Point, Great Bay de L'Eau"
+    },
+    {
+        "lon": -55.595252510568955,
+        "lat": 47.51324984033638,
+        "municipality": "St. George",
+        "localityNumber": "833",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Salmonier Cove, Great Bay de L'eau"
+    },
+    {
+        "lon": -55.2166449576628,
+        "lat": 47.63205700381041,
+        "municipality": "St. George",
+        "localityNumber": "873",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Rencontre East Island"
+    },
+    {
+        "lon": -56.20517085924418,
+        "lat": 47.65032807986066,
+        "municipality": "Hermitage",
+        "localityNumber": "669",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Wild Cove, Bonne Bay"
+    },
+    {
+        "lon": -55.89241969813211,
+        "lat": 47.621031359280934,
+        "municipality": "Hermitage",
+        "localityNumber": "744",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "L' Anse au Flamme"
+    },
+    {
+        "lon": -55.13673532156395,
+        "lat": 47.66117281214566,
+        "municipality": "St. George",
+        "localityNumber": "877",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Foshie's Cove (Mal Bay, Fortune Bay)"
+    },
+    {
+        "lon": -55.13002670302214,
+        "lat": 47.67710480929297,
+        "municipality": "St. George",
+        "localityNumber": "876",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Benny's Cove (Mal Bay, Fortune Bay)"
+    },
+    {
+        "lon": -55.88782301882327,
+        "lat": 47.80679286312726,
+        "municipality": "Hermitage",
+        "localityNumber": "784",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Roti Bay, Site #4"
+    },
+    {
+        "lon": -55.84520155185294,
+        "lat": 47.76101778967104,
+        "municipality": "Hermitage",
+        "localityNumber": "854",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Ingram Point"
+    },
+    {
+        "lon": -55.86802774322241,
+        "lat": 47.791357546997624,
+        "municipality": "Hermitage",
+        "localityNumber": "850",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Roti Bay Site #9"
+    },
+    {
+        "lon": -55.8844049291672,
+        "lat": 47.71359841942134,
+        "municipality": "Hermitage",
+        "localityNumber": "834",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Curley Cove"
+    },
+    {
+        "lon": -55.85383615836389,
+        "lat": 47.73666195905384,
+        "municipality": "Hermitage",
+        "localityNumber": "855",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Taylor Island"
+    },
+    {
+        "lon": -55.9585303131516,
+        "lat": 47.76553743576972,
+        "municipality": "Hermitage",
+        "localityNumber": "840",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Northwest Cove, Bay d'Espoir"
+    },
+    {
+        "lon": -55.84500032922929,
+        "lat": 47.796666658393164,
+        "municipality": "Bedford",
+        "localityNumber": "200",
+        "species": "Steelhead",
+        "organizations": "Nova Fish Farms Inc",
+        "regions": "CAN",
+        "name": "Hardy Cove, Bay d'Espoir"
+    },
+    {
+        "lon": -55.89166690992402,
+        "lat": 47.80166665078996,
+        "municipality": "Bedford",
+        "localityNumber": "201",
+        "species": "Steelhead",
+        "organizations": "Nova Fish Farms Inc",
+        "regions": "CAN",
+        "name": "Roti Bay Site 5, Bay d'Espoir"
+    },
+    {
+        "lon": -56.00233665798169,
+        "lat": 47.75343076358208,
+        "municipality": "Hermitage",
+        "localityNumber": "839",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Pomley Cove, Bay D'Espoir"
+    },
+    {
+        "lon": -55.90833335339028,
+        "lat": 47.766666682134016,
+        "municipality": "Hermitage",
+        "localityNumber": "735",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Margery Cove"
+    },
+    {
+        "lon": -55.863645761266476,
+        "lat": 47.72158394476603,
+        "municipality": "Hermitage",
+        "localityNumber": "835",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Hatcher Cove"
+    },
+    {
+        "lon": -55.87469683589171,
+        "lat": 47.794050552221194,
+        "municipality": "Hermitage",
+        "localityNumber": "849",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Roti Bay Site #8"
+    },
+    {
+        "lon": -55.81448994891945,
+        "lat": 47.79772999660208,
+        "municipality": "Bedford",
+        "localityNumber": "617",
+        "species": "Steelhead",
+        "organizations": "Nova Fish Farms Inc",
+        "regions": "CAN",
+        "name": "Arran Cove"
+    },
+    {
+        "lon": -55.879001562733215,
+        "lat": 47.80237811192692,
+        "municipality": "Bedford",
+        "localityNumber": "204",
+        "species": "Steelhead",
+        "organizations": "Nova Fish Farms Inc",
+        "regions": "CAN",
+        "name": "Roti Bay Site #3"
+    },
+    {
+        "lon": -55.88155726971654,
+        "lat": 47.79784229726714,
+        "municipality": "Bedford",
+        "localityNumber": "848",
+        "species": "Steelhead",
+        "organizations": "Nova Fish Farms Inc",
+        "regions": "CAN",
+        "name": "Roti Bay Site #7"
+    },
+    {
+        "lon": -55.856691004336824,
+        "lat": 47.81482236910876,
+        "municipality": "Bedford",
+        "localityNumber": "211",
+        "species": "Steelhead",
+        "organizations": "Nova Fish Farms Inc",
+        "regions": "CAN",
+        "name": "Muddy Hole, Bay d'Espoir"
+    },
+    {
+        "lon": -55.858899961620466,
+        "lat": 47.7930815257638,
+        "municipality": "St. George",
+        "localityNumber": "186",
+        "species": "Steelhead",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Roti Bay Site 1, South East Cove"
+    },
+    {
+        "lon": -55.79718031170976,
+        "lat": 47.593627153949086,
+        "municipality": "Hermitage",
+        "localityNumber": "863",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Long Pond Site #2"
+    },
+    {
+        "lon": -56.08305747278211,
+        "lat": 47.72175756764949,
+        "municipality": "Hermitage",
+        "localityNumber": "1042",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "Pot Hr., Goblin Bay"
+    },
+    {
+        "lon": -55.77602858002987,
+        "lat": 47.52793841162556,
+        "municipality": "St. George",
+        "localityNumber": "1028",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Harvey Hill South"
+    },
+    {
+        "lon": -56.3191805435282,
+        "lat": 47.715913174645,
+        "municipality": "St Alban's",
+        "localityNumber": "1046",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Wallace Cove"
+    },
+    {
+        "lon": -56.70204970414221,
+        "lat": 47.63293150661753,
+        "municipality": "St Alban's",
+        "localityNumber": "1058",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "The Gorge"
+    },
+    {
+        "lon": -56.6828796559791,
+        "lat": 47.62308563421505,
+        "municipality": "St Alban's",
+        "localityNumber": "1059",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Rencontre Bay"
+    },
+    {
+        "lon": -56.66618446642374,
+        "lat": 47.629628949895334,
+        "municipality": "St Alban's",
+        "localityNumber": "1057",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Little Bay"
+    },
+    {
+        "lon": -56.61494186767172,
+        "lat": 47.6372490210929,
+        "municipality": "St Alban's",
+        "localityNumber": "1056",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Devil Bay"
+    },
+    {
+        "lon": -56.51977793973323,
+        "lat": 47.66187972153975,
+        "municipality": "St Alban's",
+        "localityNumber": "1048",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Mare Cove South"
+    },
+    {
+        "lon": -56.518713436121544,
+        "lat": 47.64494097020691,
+        "municipality": "St Alban's",
+        "localityNumber": "1045",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "North Bob Locke Cove"
+    },
+    {
+        "lon": -56.31668771861477,
+        "lat": 47.68107962480334,
+        "municipality": "St Alban's",
+        "localityNumber": "1054",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Dennis Arm"
+    },
+    {
+        "lon": -56.324156311886945,
+        "lat": 47.732475680886324,
+        "municipality": "St Alban's",
+        "localityNumber": "1049",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Indian Tea Point"
+    },
+    {
+        "lon": -56.31633018913169,
+        "lat": 47.646201861235966,
+        "municipality": "St Alban's",
+        "localityNumber": "1050",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Wild Cove"
+    },
+    {
+        "lon": -56.15222505471345,
+        "lat": 47.667798411290704,
+        "municipality": "St Alban's",
+        "localityNumber": "1053",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Pass My Can"
+    },
+    {
+        "lon": -56.13588380138003,
+        "lat": 47.65610176954744,
+        "municipality": "St Alban's",
+        "localityNumber": "1052",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Jervis Island"
+    },
+    {
+        "lon": -56.11249436632741,
+        "lat": 47.70608016513063,
+        "municipality": "St Alban's",
+        "localityNumber": "1055",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Goblin Bay"
+    },
+    {
+        "lon": -56.05499140836036,
+        "lat": 47.675161291956734,
+        "municipality": "St Alban's",
+        "localityNumber": "1051",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Butter Cove"
+    },
+    {
+        "lon": -54.14818606378519,
+        "lat": 47.54225775578975,
+        "municipality": "Marystown",
+        "localityNumber": "1060",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Red Island"
+    },
+    {
+        "lon": -54.11599763052462,
+        "lat": 47.57002044632896,
+        "municipality": "Marystown",
+        "localityNumber": "1061",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Butler Island"
+    },
+    {
+        "lon": -54.18292571245266,
+        "lat": 47.480696105415966,
+        "municipality": "Marystown",
+        "localityNumber": "1062",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Darby Harbour"
+    },
+    {
+        "lon": -54.38984006173561,
+        "lat": 47.52434605985021,
+        "municipality": "Marystown",
+        "localityNumber": "1065",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Valen Island"
+    },
+    {
+        "lon": -54.35049744555232,
+        "lat": 47.578082125783766,
+        "municipality": "Marystown",
+        "localityNumber": "1066",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Chamber Island"
+    },
+    {
+        "lon": -54.280245597073026,
+        "lat": 47.649736055116875,
+        "municipality": "Marystown",
+        "localityNumber": "1067",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Ship Island"
+    },
+    {
+        "lon": -54.69888028240898,
+        "lat": 47.32844615376107,
+        "municipality": "Marystown",
+        "localityNumber": "1071",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Long Island, Placentia Bay"
+    },
+    {
+        "lon": -54.85903911778408,
+        "lat": 47.30234704993408,
+        "municipality": "Marystown",
+        "localityNumber": "1072",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Oderin Island"
+    },
+    {
+        "lon": -56.74847643465608,
+        "lat": 47.6221183888458,
+        "municipality": "St Alban's",
+        "localityNumber": "1068",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Chaleur Bay"
+    },
+    {
+        "lon": -56.74702924873337,
+        "lat": 47.600879589445725,
+        "municipality": "St Alban's",
+        "localityNumber": "1069",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Friar Cove, Chaleur Bay"
+    },
+    {
+        "lon": -56.723034349179244,
+        "lat": 47.585492614886476,
+        "municipality": "St Alban's",
+        "localityNumber": "1070",
+        "species": "Atlantic Salmon",
+        "organizations": "Mowi",
+        "regions": "CAN",
+        "name": "Shooter Point, Chaleur Bay"
+    },
+    {
+        "lon": -55.834198986253035,
+        "lat": 47.86284237215228,
+        "municipality": "Hermitage",
+        "localityNumber": "1080",
+        "species": "Steelhead",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "St. Alban's Wharf Site #1"
+    },
+    {
+        "lon": -54.79778210024469,
+        "lat": 47.279013700535494,
+        "municipality": "Marystown",
+        "localityNumber": "1077",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Jude Island"
+    },
+    {
+        "lon": -54.57135095309895,
+        "lat": 47.427199449978,
+        "municipality": "Marystown",
+        "localityNumber": "1078",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Gilbert's Cove"
+    },
+    {
+        "lon": -54.54056119673576,
+        "lat": 47.45434600375383,
+        "municipality": "Marystown",
+        "localityNumber": "1075",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Paradise Sound"
+    },
+    {
+        "lon": -54.5196457219756,
+        "lat": 47.48593046051347,
+        "municipality": "Marystown",
+        "localityNumber": "1079",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Channel Harbour"
+    },
+    {
+        "lon": -54.419013748902685,
+        "lat": 47.46637404520663,
+        "municipality": "Marystown",
+        "localityNumber": "1074",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "St. Leonard's"
+    },
+    {
+        "lon": -55.836237263632704,
+        "lat": 47.86364936324273,
+        "municipality": "St. Stephen",
+        "localityNumber": "1082",
+        "species": "Steelhead",
+        "organizations": "Nova Fish Farms Inc",
+        "regions": "CAN",
+        "name": "St. Alban's Wharf Site #2"
+    },
+    {
+        "lon": -55.79629906441603,
+        "lat": 47.563049601896594,
+        "municipality": "Hermitage",
+        "localityNumber": "1083",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "June Cove"
+    },
+    {
+        "lon": -55.79629906441603,
+        "lat": 47.563049601896594,
+        "municipality": "Hermitage",
+        "localityNumber": "1083",
+        "species": "Atlantic Salmon",
+        "organizations": "Cold Ocean Salmon Inc.",
+        "regions": "CAN",
+        "name": "June Cove"
+    },
+    {
+        "lon": -54.161150549965605,
+        "lat": 47.42372808015056,
+        "municipality": "Marystown",
+        "localityNumber": "1087",
+        "species": "Atlantic Salmon",
+        "organizations": "Grieg Marine NL Ltd.",
+        "regions": "CAN",
+        "name": "Goat Island"
+    }
+]
