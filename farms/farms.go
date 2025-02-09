@@ -12,7 +12,7 @@ var filesToRead = []string{"json-files/canada_farms.json", "json-files/chile_far
 func Get() ([]model.Farms, error) {
 	var farms []model.Farms
 
-	for _, file := range filesToRead {
+	for i, file := range filesToRead {
 		rawData, err := os.ReadFile(file)
 		if err != nil {
 			return farms, err

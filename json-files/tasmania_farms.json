@@ -1,7 +1,7 @@
 [
   {
     "name": "Satellite Island N.E.",
-    "localityNumber": 34,
+    "localityNumber": "34",
     "organizations": "Alstergren Aquaculture",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.31646,
@@ -13,7 +13,7 @@
   },
   {
     "name": "Satellite Island S.",
-    "localityNumber": 34,
+    "localityNumber": "34",
     "organizations": "Alstergren Aquaculture",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.32157,
@@ -25,7 +25,7 @@
   },
   {
     "name": "Satellite Island S.W.",
-    "localityNumber": 34,
+    "localityNumber": "34",
     "organizations": "Alstergren Aquaculture",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.31993,
@@ -37,7 +37,7 @@
   },
   {
     "name": "Great Taylors Bay #3",
-    "localityNumber": 109,
+    "localityNumber": "109",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.4145,
@@ -49,7 +49,7 @@
   },
   {
     "name": "Great Taylors Bay #4",
-    "localityNumber": 109,
+    "localityNumber": "109",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.41328,
@@ -61,7 +61,7 @@
   },
   {
     "name": "Northwest Bay E.",
-    "localityNumber": 76,
+    "localityNumber": "76",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.04404,
@@ -73,7 +73,7 @@
   },
   {
     "name": "Northwest Bay S.",
-    "localityNumber": 90,
+    "localityNumber": "90",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.05995,
@@ -85,7 +85,7 @@
   },
   {
     "name": "Northwest Bay W.",
-    "localityNumber": 76,
+    "localityNumber": "76",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.05783,
@@ -97,7 +97,7 @@
   },
   {
     "name": "S. Central Harbour",
-    "localityNumber": 219,
+    "localityNumber": "219",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "Macquarie Harbour",
     "lat": -42.29192,
@@ -109,7 +109,7 @@
   },
   {
     "name": "S. Simpsons Point",
-    "localityNumber": 182,
+    "localityNumber": "182",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.25594,
@@ -121,7 +121,7 @@
   },
   {
     "name": "Simmonds Point",
-    "localityNumber": 154,
+    "localityNumber": "154",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.10797,
@@ -133,7 +133,7 @@
   },
   {
     "name": "Simpsons Point",
-    "localityNumber": 115,
+    "localityNumber": "115",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.24388,
@@ -145,7 +145,7 @@
   },
   {
     "name": "The Sheppards",
-    "localityNumber": 94,
+    "localityNumber": "94",
     "organizations": "Aquatas (Owned by TASSAL)",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.092,
@@ -157,7 +157,7 @@
   },
   {
     "name": "East of Red Cliffs",
-    "localityNumber": 221,
+    "localityNumber": "221",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.31021,
@@ -169,7 +169,7 @@
   },
   {
     "name": "Flat Head Bay #1",
-    "localityNumber": 87,
+    "localityNumber": "87",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.2859,
@@ -181,7 +181,7 @@
   },
   {
     "name": "Flat Head Bay #2",
-    "localityNumber": 87,
+    "localityNumber": "87",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.2886,
@@ -193,7 +193,7 @@
   },
   {
     "name": "Garden Island",
-    "localityNumber": 151,
+    "localityNumber": "151",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.2652,
@@ -205,7 +205,7 @@
   },
   {
     "name": "HIdeaway Bay",
-    "localityNumber": 93,
+    "localityNumber": "93",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.26613,
@@ -217,7 +217,7 @@
   },
   {
     "name": "Police Point",
-    "localityNumber": 167,
+    "localityNumber": "167",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.24902,
@@ -229,7 +229,7 @@
   },
   {
     "name": "South of Zuidpool Rock #1",
-    "localityNumber": 141,
+    "localityNumber": "141",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.35904,
@@ -241,7 +241,7 @@
   },
   {
     "name": "South of Zuidpool Rock #2",
-    "localityNumber": 141,
+    "localityNumber": "141",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.33676,
@@ -253,7 +253,7 @@
   },
   {
     "name": "Stringers Cove #2",
-    "localityNumber": 244,
+    "localityNumber": "244",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.34886,
@@ -265,7 +265,7 @@
   },
   {
     "name": "Trumpeter Bay #1",
-    "localityNumber": 261,
+    "localityNumber": "261",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "Storm Bay off Trumpeter Island, North Bruny Island",
     "lat": -43.16984,
@@ -277,7 +277,7 @@
   },
   {
     "name": "Trumpeter Bay #2",
-    "localityNumber": 261,
+    "localityNumber": "261",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "Storm Bay off Trumpeter Island, North Bruny Island",
     "lat": -43.18837,
@@ -289,7 +289,7 @@
   },
   {
     "name": "Trumpeter Bay #3",
-    "localityNumber": 261,
+    "localityNumber": "261",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "Storm Bay off Trumpeter Island, North Bruny Island",
     "lat": -43.20676,
@@ -301,7 +301,7 @@
   },
   {
     "name": "Trumpeter Bay #4",
-    "localityNumber": 261,
+    "localityNumber": "261",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "Storm Bay off Trumpeter Island, North Bruny Island",
     "lat": -43.22603,
@@ -313,7 +313,7 @@
   },
   {
     "name": "Yellow Bluff",
-    "localityNumber": 281,
+    "localityNumber": "281",
     "organizations": "Huon Aquaculture Company",
     "productionArea": "Storm Bay off Trumpeter Island, North Bruny Island",
     "lat": -43.11856,
@@ -325,7 +325,7 @@
   },
   {
     "name": "Liberty Point",
-    "localityNumber": 217,
+    "localityNumber": "217",
     "organizations": "Petuna Aquaculture (Majority Owned by Sealord International)",
     "productionArea": "Macquarie Harbour",
     "lat": -42.305834,
@@ -337,7 +337,7 @@
   },
   {
     "name": "N. E. of Hogan Cove",
-    "localityNumber": 213,
+    "localityNumber": "213",
     "organizations": "Petuna Aquaculture (Majority Owned by Sealord International)",
     "productionArea": "Macquarie Harbour",
     "lat": -42.33186,
@@ -349,7 +349,7 @@
   },
   {
     "name": "North Liberty Point",
-    "localityNumber": 133,
+    "localityNumber": "133",
     "organizations": "Petuna Aquaculture (Majority Owned by Sealord International)",
     "productionArea": "Macquarie Harbour",
     "lat": -42.26047,
@@ -361,7 +361,7 @@
   },
   {
     "name": "Table Head #1",
-    "localityNumber": 215,
+    "localityNumber": "215",
     "organizations": "Petuna Aquaculture (Majority Owned by Sealord International)",
     "productionArea": "Macquarie Harbour",
     "lat": -42.30111,
@@ -373,7 +373,7 @@
   },
   {
     "name": "Table Head #2",
-    "localityNumber": 215,
+    "localityNumber": "215",
     "organizations": "Petuna Aquaculture (Majority Owned by Sealord International)",
     "productionArea": "Macquarie Harbour",
     "lat": -42.27578,
@@ -385,7 +385,7 @@
   },
   {
     "name": "Liberty Point Central Harbour",
-    "localityNumber": 214,
+    "localityNumber": "214",
     "organizations": "Russfal (subleased to Tassal and Huon Aquaculture)",
     "productionArea": "Macquarie Harbour",
     "lat": -42.276716,
@@ -397,7 +397,7 @@
   },
   {
     "name": "N.E. Pelias Cove",
-    "localityNumber": 216,
+    "localityNumber": "216",
     "organizations": "Russfal (subleased to Tassal and Huon Aquaculture)",
     "productionArea": "Macquarie Harbour",
     "lat": -42.330966,
@@ -409,7 +409,7 @@
   },
   {
     "name": "E. of Butt of Liberty",
-    "localityNumber": 267,
+    "localityNumber": "267",
     "organizations": "Southern Ocean Trout",
     "productionArea": "Macquarie Harbour",
     "lat": -42.315251,
@@ -421,7 +421,7 @@
   },
   {
     "name": "N.E. Double Cove",
-    "localityNumber": 220,
+    "localityNumber": "220",
     "organizations": "Southern Ocean Trout",
     "productionArea": "Macquarie Harbour",
     "lat": -42.301054,
@@ -433,7 +433,7 @@
   },
   {
     "name": "Okehampton Bay",
-    "localityNumber": 236,
+    "localityNumber": "236",
     "organizations": "Spring Bay Seafoods (Subleased to TASSAL Group)",
     "productionArea": "Mercury Passage, Okehampton Bay",
     "lat": -42.53213,
@@ -445,7 +445,7 @@
   },
   {
     "name": "Badger Cove/Parsons Bay #1",
-    "localityNumber": 193,
+    "localityNumber": "193",
     "organizations": "TASSAL Group",
     "productionArea": "Tasmanian Peninsula, Parson's Bay",
     "lat": -43.09743,
@@ -457,7 +457,7 @@
   },
   {
     "name": "Badger Cove/Parsons Bay #2",
-    "localityNumber": 193,
+    "localityNumber": "193",
     "organizations": "TASSAL Group",
     "productionArea": "Tasmanian Peninsula, Parson's Bay",
     "lat": -43.09824,
@@ -469,7 +469,7 @@
   },
   {
     "name": "Billy Blue Bay",
-    "localityNumber": 194,
+    "localityNumber": "194",
     "organizations": "TASSAL Group",
     "productionArea": "Tasmanian Peninsula, Parson's Bay",
     "lat": -43.10128,
@@ -481,7 +481,7 @@
   },
   {
     "name": "Brabazon Park",
-    "localityNumber": 188,
+    "localityNumber": "188",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.183373,
@@ -493,7 +493,7 @@
   },
   {
     "name": "Brabazon Point",
-    "localityNumber": 186,
+    "localityNumber": "186",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.192986,
@@ -505,7 +505,7 @@
   },
   {
     "name": "Creeses Mistake",
-    "localityNumber": 190,
+    "localityNumber": "190",
     "organizations": "TASSAL Group",
     "productionArea": "Tasmanian Peninsula, Parson's Bay",
     "lat": -43.10708,
@@ -517,7 +517,7 @@
   },
   {
     "name": "East of Lippies Point",
-    "localityNumber": 78,
+    "localityNumber": "78",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.375413,
@@ -529,7 +529,7 @@
   },
   {
     "name": "Great Taylor's Bay #2 (Partridge Island)",
-    "localityNumber": 203,
+    "localityNumber": "203",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.390766,
@@ -541,7 +541,7 @@
   },
   {
     "name": "Great Taylors Bay #1 (Tin Poe Point",
-    "localityNumber": 185,
+    "localityNumber": "185",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.382782,
@@ -553,7 +553,7 @@
   },
   {
     "name": "Kilala Bay",
-    "localityNumber": 189,
+    "localityNumber": "189",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.213426,
@@ -565,7 +565,7 @@
   },
   {
     "name": "Long Bay",
-    "localityNumber": 55,
+    "localityNumber": "55",
     "organizations": "TASSAL Group",
     "productionArea": "Norfolk Bay & Tasman Peninsula",
     "lat": -43.13067,
@@ -577,7 +577,7 @@
   },
   {
     "name": "Meads Creek",
-    "localityNumber": 77,
+    "localityNumber": "77",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.337851,
@@ -589,7 +589,7 @@
   },
   {
     "name": "N.E. of Bryans Bay",
-    "localityNumber": 266,
+    "localityNumber": "266",
     "organizations": "TASSAL Group",
     "productionArea": "Macquarie Harbour",
     "lat": -42.343105,
@@ -613,7 +613,7 @@
   },
   {
     "name": "Roaring Beach (Redcliffs)",
-    "localityNumber": 201,
+    "localityNumber": "201",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.311807,
@@ -625,7 +625,7 @@
   },
   {
     "name": "Roberts Point",
-    "localityNumber": 142,
+    "localityNumber": "142",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.13674,
@@ -637,7 +637,7 @@
   },
   {
     "name": "Stringers Cove #1",
-    "localityNumber": 209,
+    "localityNumber": "209",
     "organizations": "TASSAL Group",
     "productionArea": "Southern Zone-Dover Region",
     "lat": -43.344798,
@@ -649,7 +649,7 @@
   },
   {
     "name": "Sykes Cove",
-    "localityNumber": 73,
+    "localityNumber": "73",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.14689,
@@ -673,7 +673,7 @@
   },
   {
     "name": "W. of Wedge Island #1",
-    "localityNumber": 279,
+    "localityNumber": "279",
     "organizations": "TASSAL Group",
     "productionArea": "Norfolk Bay & Tasman Peninsula",
     "lat": -43.12983,
@@ -685,7 +685,7 @@
   },
   {
     "name": "W. of Wedge Island #2",
-    "localityNumber": 280,
+    "localityNumber": "280",
     "organizations": "TASSAL Group",
     "productionArea": "Norfolk Bay & Tasman Peninsula",
     "lat": -43.12983,
@@ -697,7 +697,7 @@
   },
   {
     "name": "W. of Wedge Island #3",
-    "localityNumber": 277,
+    "localityNumber": "277",
     "organizations": "TASSAL Group",
     "productionArea": "Norfolk Bay & Tasman Peninsula",
     "lat": -43.13117,
@@ -709,7 +709,7 @@
   },
   {
     "name": "W. of Wedge Island #4",
-    "localityNumber": 278,
+    "localityNumber": "278",
     "organizations": "TASSAL Group",
     "productionArea": "Norfolk Bay & Tasman Peninsula",
     "lat": -43.13953,
@@ -721,7 +721,7 @@
   },
   {
     "name": "West of Soldier's Point",
-    "localityNumber": 110,
+    "localityNumber": "110",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.18093,
@@ -733,7 +733,7 @@
   },
   {
     "name": "Wheatleys Bay",
-    "localityNumber": 187,
+    "localityNumber": "187",
     "organizations": "TASSAL Group",
     "productionArea": "D Entrecasteaux Channel and Huon River",
     "lat": -43.201739,
@@ -745,7 +745,7 @@
   },
   {
     "name": "Long Reach",
-    "localityNumber": 178,
+    "localityNumber": "178",
     "organizations": "Van Diemen Aquaculture (subsidiary of Petuna)",
     "productionArea": "Tamar Estuary",
     "lat": -41.165163,
